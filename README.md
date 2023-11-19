@@ -24,7 +24,7 @@ Each output line should be terminated by a newline.
 The sample input has two instances. The first instance has one job to schedule with a start time of 1
 and an end time of 4. The second instance has 3 jobs.
 ### Time Complexity
-The time complexity of the optimal weighted interval scheduling problem is O(nlog(n)).
+The time complexity of the optimal weighted interval scheduling problem is **O(n * log(n))**.
 
 ## Weighted Interval Scheduling Problem
 ### Problem Input Description
@@ -51,4 +51,4 @@ one newline.
 The sample input has two instances. The first instance has one job to schedule with a start time of 1,
 an end time of 4, and a weight of 5. The second instance has 3 jobs.
 ### Time Complexity
-The time complexity of the optimal weighted interval scheduling problem is O(n^2).
+The time complexity of the optimal weighted interval scheduling problem is **O(n^2)**.
