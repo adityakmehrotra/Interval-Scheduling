@@ -11,14 +11,14 @@ For each instance, the program should output the number of intervals scheduled o
 Each output line should be terminated by a newline
 ### Sample Input
 2<br>
-1
-1 4
-3
-1 2
-3 4
+1<br>
+1 4<br>
+3<br>
+1 2<br>
+3 4<br>
 2 6
 ### Sample Output
-1
+1<br>
 2
 ### Sample Input and Output Description
 The sample input has two instances. The first instance has one job to schedule with a start time of 1
