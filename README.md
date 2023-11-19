@@ -10,7 +10,7 @@ positive integers i and j, where i < j, and i is the start time, and j is the en
 For each instance, the program should output the number of intervals scheduled on a separate line.
 Each output line should be terminated by a newline
 ### Sample Input
-2
+2<br>
 1
 1 4
 3
