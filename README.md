@@ -12,11 +12,11 @@ Each output line should be terminated by a newline
 ### Sample Input
 2<br>
 1<br>
-1 4<br>
+1  4<br>
 3<br>
-1 2<br>
-3 4<br>
-2 6
+1  2<br>
+3  4<br>
+2  6
 ### Sample Output
 1<br>
 2
