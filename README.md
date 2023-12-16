@@ -61,4 +61,4 @@ The time complexity of the optimal weighted interval scheduling problem is **O(n
 
 ### Run the Code
 - Downloard the required files:
-- You can run the `Furthest_Algorithm.java` file through your IDE/Console.
+- You can run the `weighted_problem.java` file through your IDE/Console.
