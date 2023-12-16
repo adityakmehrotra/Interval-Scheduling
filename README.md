@@ -34,6 +34,8 @@ The time complexity of the optimal weighted interval scheduling problem is **O(n
 ### Run the Code
 - Downloard the required files:
   - `unweighted_problem.java`: Java file with the algorithm that counts and returns the maximum weight of a non-overlapping interval schedule optimally in terms of time and space.
+  - `Makefile`: Makefile to build the Java file (`weighted_problem.java`) through the compiler and run the algorithm in the Java file (`weighted_problem.java`).
+
 
 ## Weighted Interval Scheduling Problem
 
