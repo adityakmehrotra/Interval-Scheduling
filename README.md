@@ -31,6 +31,8 @@ The sample input has two instances. The first instance has one job to schedule w
 ### Time Complexity
 The time complexity of the optimal weighted interval scheduling problem is **O(n * log(n))**.
 
+### Run the Code
+
 
 ## Weighted Interval Scheduling Problem
 
